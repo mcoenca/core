@@ -19,6 +19,7 @@ Package.on_use(function(api) {
   api.use([
     'blaze',
     'reactive-dict',
+    'jquery'
   ], 'client');
 
   api.use([
